@@ -11,7 +11,7 @@ Se examinan cuatro activos clave:
 - ⚠️ Índice de Volatilidad (VIX)
 
 ## 🛠️ Tecnologías usadas
-- Python 3
+- Python 
 - pandas
 - yfinance
 - matplotlib
